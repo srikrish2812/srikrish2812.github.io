@@ -85,7 +85,7 @@ social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact'
-  - icon: twitter
+  - icon: x
     icon_pack: fab
     link: https://twitter.com/capabhay
     label: Follow me on Twitter
