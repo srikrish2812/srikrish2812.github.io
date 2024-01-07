@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Deep Learning Model for Satellite Image Classification
+summary: A CNN network to classify satellite images
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -13,11 +13,11 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: x
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://github.com/srikrish2812/satellite_image_classification_cv'
 url_pdf: ''
 url_slides: ''
 url_video: ''
