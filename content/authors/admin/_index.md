@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MIS:ML at University of Arizona
+role: MSIS:ML at University of Arizona
 
 # Organizations/Affiliations to show in About widget
 organizations:
