@@ -29,7 +29,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Artificial Intelligence and Machine Learning
   - Natural Language Processing
   - Large Language Models
   - Computer Vision
@@ -108,5 +108,10 @@ social:
 highlight_name: true
 ---
 
-Work in Progress
+I am a self-driven individual expanding my knowledge and skills in the vast area of AI and ML. During my bachelors, I developed various deep learning models for computer vision tasks such as image classification, object detection especially small objects.
+I have fine-tuned state-of-the-art deep learning models like YOLOv5, YOLOv8, Faster-RCNN on the COCO dataset. Moreover, I have experience in generating synthetic data(images) using augmentation techniques. I've combined classical and deep learning techniques
+to improve the mean average precision(mAP) of the models. 
+
+Currently, I am learning natural language processing(NLP) and large language models(LLMs). 
+
 {style="text-align: justify;"}
