@@ -63,9 +63,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: IIT, Tirupati
-          company_url: ''
-          company_logo: org-gc
+          company: SPCV Lab IIT, Tirupati
+          company_url: 'https://sites.google.com/iittp.ac.in/ee-spcv-lab/home?authuser=0'
+          company_logo: /workspaces/srikrish2812.github.io/assets/media/icons/brands/Indian_Institute_of_Technology_Tirupati_Logo.svg.png
           location: Tirupati
           date_start: '2022-05-01'
           date_end: '2022-09-01'
