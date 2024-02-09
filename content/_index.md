@@ -68,14 +68,8 @@ sections:
           company_logo: iittnif
           location: Tirupati
           date_start: '2022-10-01'
-          date_end: '2022-08-01'
-          description: I secured the Chanakya fellowship for my drone detection research project. This project focuses on developing a lightweight drone detection model using deep learning-enabled computer vision methods that infer high precision and recall. Additionally, this model can be deployed onto edge devices such as raspberry-pi4.I secured the Chanakya fellowship for my drone detection research project. This project focuses on developing a lightweight drone detection model using deep learning-enabled computer vision methods that infer high precision and recall. Additionally, this model can be deployed onto edge devices such as raspberry-pi4. 
-          |2-
-              Responsibilities include:
-
-              * Model Training and Fine-tuning
-              * Data Generation and Pre-processing
-              * Model Deployment
+          date_end: '2023-08-01'
+          description: I secured the Chanakya fellowship for my drone detection research project. This project focuses on developing a lightweight drone detection model using deep learning-enabled computer vision methods that infer high precision and recall. Additionally, this model can be deployed onto edge devices such as raspberry-pi4.I secured the Chanakya fellowship for my drone detection research project. This project focuses on developing a lightweight drone detection model using deep learning-enabled computer vision methods that infer high precision and recall. Additionally, this model can be deployed onto edge devices such as raspberry-pi4. Responsibilities include model training, fine-tuning, synthetic dataset generation, data pre-processing and model deployment.
       
         - title: Research Intern
           company: SPCV Lab IIT, Tirupati
