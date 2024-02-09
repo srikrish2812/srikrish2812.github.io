@@ -63,6 +63,21 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
+          company: IITTNiF
+          company_url: ''
+          company_logo: iittnif
+          location: Tirupati
+          date_start: '2022-10-01'
+          date_end: '2022-08-01'
+          description: I secured the Chanakya fellowship for my drone detection research project. This project focuses on developing a lightweight drone detection model using deep learning-enabled computer vision methods that infer high precision and recall. Additionally, this model can be deployed onto edge devices such as raspberry-pi4.I secured the Chanakya fellowship for my drone detection research project. This project focuses on developing a lightweight drone detection model using deep learning-enabled computer vision methods that infer high precision and recall. Additionally, this model can be deployed onto edge devices such as raspberry-pi4. 
+          |2-
+              Responsibilities include:
+
+              * Model Training and Fine-tuning
+              * Data Generation and Pre-processing
+              * Model Deployment
+      
+        - title: Research Intern
           company: SPCV Lab IIT, Tirupati
           company_url: 'https://sites.google.com/iittp.ac.in/ee-spcv-lab/home?authuser=0'
           company_logo: logo
@@ -75,14 +90,7 @@ sections:
               * Model Training and Fine-tuning
               * Data Pre-processing
               * Data generation
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        
     design:
       columns: '2'
   - block: accomplishments
