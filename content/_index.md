@@ -65,7 +65,7 @@ sections:
         - title: Research Intern
           company: SPCV Lab IIT, Tirupati
           company_url: 'https://sites.google.com/iittp.ac.in/ee-spcv-lab/home?authuser=0'
-          company_logo: iittp
+          company_logo: logo
           location: Tirupati
           date_start: '2022-05-01'
           date_end: '2022-09-01'
