@@ -108,7 +108,7 @@ sections:
           organization: NXTWAVE
           organization_url: https://www.ccbp.in/
           title: Introduction to Databases
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/verify/LHWXPWJFUY6U?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
           date_end: ''
           date_start: '2022-09-02'
