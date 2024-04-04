@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mr Abhay Kumara Sri Krishna Nandiraju
+title: Abhay Kumara Sri Krishna Nandiraju
 
 # Name pronunciation (optional)
 name_pronunciation: ''
