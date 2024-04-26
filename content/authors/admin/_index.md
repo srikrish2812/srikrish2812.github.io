@@ -77,9 +77,9 @@ skills:
         icon_pack: fas
       - name: Weight Lifting
         description: ''
-        percent: 60
+        percent: 40
         icon: dumbbell
-        icon_pack: fal
+        icon_pack: far
       
 
 # Social/Academic Networking
