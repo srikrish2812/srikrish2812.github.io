@@ -166,8 +166,8 @@ sections:
   #     order: desc
     design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+      view: card
+      columns: '1'
   - block: portfolio
     id: projects
     content:
