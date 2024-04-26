@@ -11,7 +11,7 @@ last_name: Nandiraju
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😎
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,7 +21,7 @@ role: MSIS:ML at University of Arizona
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Information, UoA
+  - name: School of Information, University of Arizona
     url: https://ischool.arizona.edu/
 
 # Short bio (displayed in user profile at end of posts)
