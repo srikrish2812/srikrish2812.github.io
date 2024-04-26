@@ -55,17 +55,17 @@ skills:
         description: ''
         percent: 80
         icon: python
-        icon_pack: fab
+        icon_pack: devicon
       - name: Data Science
         description: ''
         percent: 60
         icon: chart-line
-        icon_pack: fas
+        icon_pack: devicon
       - name: SQL
         description: ''
         percent: 80
         icon: database
-        icon_pack: fas
+        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -75,6 +75,11 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
+      - name: Weight Lifting
+        description: ''
+        percent: 60
+        icon: dumbbell
+        icon_pack: fal
       
 
 # Social/Academic Networking
