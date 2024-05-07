@@ -167,7 +167,7 @@ sections:
     design:
       # Choose a layout view
       view: card
-      columns: '1'
+      columns: '2'
   - block: portfolio
     id: projects
     content:
