@@ -21,8 +21,8 @@ role: MSIS:ML at University of Arizona
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Information, University of Arizona
-    url: https://ischool.arizona.edu/
+  - name: College of Information Science
+    url: https://infosci.arizona.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include Natural Language Processing(NLP), Large Language Models(LLMs) and Data Science
