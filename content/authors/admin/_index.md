@@ -29,12 +29,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence and Machine Learning
+  - Computer Vision
   - Natural Language Processing
   - Large Language Models
-  - Computer Vision
-  - Neural Networks
-  - Information Retrieval
+  - Deep Learning
 
 # Education to show in About widget
 education:

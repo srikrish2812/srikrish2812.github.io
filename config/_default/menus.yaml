@@ -23,7 +23,7 @@ main:
     url: '#projects'
     weight: 50
   - name: Resume
-    url: uploads/abhay_new_resume.pdf
+    url: uploads/academic_resume.pdf
     weight: 60
   # - name: Talks
   #   url: '#talks'
