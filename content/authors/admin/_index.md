@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Abhay
+title: Abhay Nandiraju
 
 # Name pronunciation (optional)
-name_pronunciation: Ah-bhay Nahn-dee-raju
+name_pronunciation: Ah-bhay Nan-dee-raju
 
 # Full name (for SEO)
 first_name: Abhay Kumara Sri Krishna
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/srikrish2812
   - icon: brands/linkedin
-    url: https://www.linkedin.com/abhaynandiraju
+    url: https://www.linkedin.com/in/abhaynandiraju/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
@@ -60,23 +60,23 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Information Science, Machine Learning
+    institution: University of Arizona
+    date_start: 2023-08-01
+    date_end: 2025-05-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BTech Electrical Engineering
+    institution: Indian Institute of Technology(IIT), Tirupati
+    date_start: 2019-08-01
+    date_end: 2023-05-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 8.84/10.00
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
