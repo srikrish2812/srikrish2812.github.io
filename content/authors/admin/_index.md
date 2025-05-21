@@ -54,12 +54,12 @@ education:
   - area: PhD Artificial Intelligence, Intelligent Systems
     institution: University of Pittsburgh
     date_start: 2025-08-01
-    date_end: 2029-07-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    date_end: 2029-05-31
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MS Information Science, Machine Learning
     institution: University of Arizona
     date_start: 2023-08-01
@@ -68,9 +68,15 @@ education:
       GPA: 4.0/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - INFO 505: Foundations of Information
+      - INFO 523: Data Mining and Discovery
+      - INFO 521: Intro to Machine Learning
+      - INFO 555: Applied Natural Language Processing
+      - INFO 531: Data Warehousing and Analytics in the Cloud
+      - INFO 526: Data Analysis and Visualization
+      - INFO 550: Artificial Intelligence
+      - INFO 557: Neural Networks
+      - INFO 621: Advanced ML Applications
   - area: BTech Electrical Engineering
     institution: Indian Institute of Technology(IIT), Tirupati
     date_start: 2019-08-01
@@ -79,9 +85,13 @@ education:
       GPA: 8.84/10.00
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      -  Machine Learning for Image Processing
+      - Computer Vision
+      - Artificial Neural Networks
+      - Speech Signal Processing
+      - Statistical Signal Processing
+      - Control Theory
+      - Communication Networks(Optimization)
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
