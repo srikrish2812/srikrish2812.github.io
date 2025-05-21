@@ -93,28 +93,53 @@ education:
       - Control Theory
       - Communication Networks(Optimization)
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Research Assistant - NLP Researcher
+    company_name: Management Information Systems, Eller College of Management, University of Arizona
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-09-02
+    date_end: 2025-05-25
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Worked under Dr Gondy Leroy in the Deep Target NLP Research Group on an NIH funded project
+      - I developed automated frameworks to identify and evaluate information loss between original and simplified versions of biomedical text, and insert the missing information at the right context to generate an augmented simplified text that is semantically closer to the original text. All of this process is automated with no human in loop.
+      - Our research paper is accepted in the Intelligent System Conference 2025
+      - Worked under Dr Gondy Leroy in the Deep Target NLP Research Group on an NIH funded project - I developed automated frameworks to identify and evaluate information loss between original and simplified versions of biomedical text, and insert the missing information at the right context to generate an augmented simplified text that is semantically closer to the original text. All of this process is automated with no human in loop. - Our research paper is accepted in the Intelligent System Conference 2025
+
+  - position: Associate Consultant - AI Engineer
+    company_name: WML IT Solutions Pvt. Ltd.
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-08-01
+    date_end: 2024-04-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed a reusable chatbot script that doesn’t require configuring packages or modules, suitable for integration in various projects.
+      - Integrated GPT-3.5 Turbo and SQL coder from Hugging Face to convert natural language into SQL queries for database interaction.
+      - Enabled users to interact and retrieve answers from both relational and non-relational databases, and CSV files using natural language like English.
+      - Langchain, Python and Flask are utilized to seamlessly integrate the LLMs into backend.
+      - Postgres is used as a vector database to perform Q&A task on the text documents.
+
+  - position: Chanakya Fellow
+    company_name: IIT Tirupati Navavishkar I-Hub Foundation
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-10-01
+    date_end: 2023-08-30
+    summary: |
+      Responsibilities include:
+      - I secured the Chanakya fellowship for my drone detection research project. This project focuses on developing a lightweight drone detection model using deep learning-enabled computer vision methods that infer high precision and recall. Additionally, this model can be deployed onto edge devices such as raspberry-pi4.
+
+  - position: Research Intern
+    company_name: IIT Tirupati
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: 2022-09-30
+    summary: |
+      Responsibilities include:
+      - I worked under Dr Rama Krishna Gorthi in the Visual Information and Signal Analysis Lab(ViSAL) at IIT, Tirupati on small object detection using Faster-RCNN and COCO dataset(>200,000 images).
+      - Integrated super-resolution techniques like BSRGAN and bicubic interpolation and improved the mean average precision(mAP) by 8%
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
