@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - srikrish2812
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - srikrish2812/neural-network-scratch
+  - srikrish2812/info621_project
+  - srikrish2812/quantize_open_source_llms
+  - srikrish2812/pytorch_practice
+  - srikrish2812/dsa-python
