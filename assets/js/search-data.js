@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-mcp-overview",
+        
+          title: "MCP Overview",
+        
+        description: "My understanding of MCP",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/mcpoverview/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
