@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-mcp-overview",
+            },{id: "post-django",
+        
+          title: "Django",
+        
+        description: "Learning Django",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/django/";
+          
+        },
+      },{id: "post-mcp-overview",
         
           title: "MCP Overview",
         
