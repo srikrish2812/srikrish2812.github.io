@@ -18,10 +18,20 @@ $green-color-lime: #b7d12a !default;
 $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
-$purple-color: #b509ac !default;
-$light-purple-color: color.adjust($purple-color, $lightness: 25%);
-$pink-color: #f92080 !default;
-$pink-color-light: #ffdddd !default;
+$purple-color: #4f46e5 !default; // Modern indigo
+$light-purple-color: #818cf8 !default;
+$cyan-color: #38bdf8 !default; // Vibrant sky blue
+$light-cyan-color: #7dd3fc !default;
+$pink-color: #ec4899 !default;
+
+// Premium custom colors
+$premium-dark-bg: #090d16 !default;      // Deep midnight space blue
+$premium-dark-card: #111a2e !default;    // Sleek space-blue dark card
+$premium-dark-text: #e2e8f0 !default;    // Soft premium off-white (slate-200) for reading comfort
+$premium-dark-text-muted: #94a3b8 !default; // Beautiful slate-400 muted text
+$premium-light-text: #0f172a !default;   // Warm slate-900 light text
+$premium-indigo-hover: #4338ca !default;
+$premium-cyan-hover: #0ea5e9 !default;
 $yellow-color: #efcc00 !default;
 
 $grey-color: #828282 !default;
@@ -35,7 +45,7 @@ $black-color: #000000 !default;
 // Theme colors
 
 $code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2c3237 !default;
+$code-bg-color-dark: #131b2e !default;    // Deep space-blue for matching code blocks
 
 // Font awesome location
 $fa-font-path: "../webfonts";

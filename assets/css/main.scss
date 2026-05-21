@@ -23,3 +23,120 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
+
+/* Card styling overhaul */
+.card {
+  border: 1px solid var(--global-divider-color) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02) !important;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out !important;
+  overflow: hidden;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08) !important;
+  }
+}
+
+html[data-theme="dark"] .card {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2) !important;
+  
+  &:hover {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3) !important;
+  }
+}
+
+/* Publications modern hover styling */
+.bibliography li {
+  border-radius: 8px;
+  padding: 1.25rem !important;
+  margin-bottom: 1rem !important;
+  transition: transform 0.2s ease, background-color 0.2s ease !important;
+
+  &:hover {
+    transform: translateX(4px);
+    background-color: rgba(79, 70, 229, 0.03); /* Soft indigo tint */
+  }
+}
+
+html[data-theme="dark"] .bibliography li:hover {
+  background-color: rgba(56, 189, 248, 0.04); /* Soft blue tint in dark mode */
+}
+
+/* Premium Editorial Blog Styling */
+.post-header {
+  text-align: center;
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-bottom: 2rem;
+}
+
+.post-title {
+  font-size: 2.5rem !important;
+  font-weight: 700 !important;
+  margin-bottom: 0.75rem !important;
+  letter-spacing: -0.03em !important;
+  line-height: 1.2 !important;
+}
+
+.post-meta {
+  font-size: 0.95rem !important;
+  color: var(--global-text-color-light) !important;
+}
+
+.post-content {
+  max-width: 720px !important;
+  margin: 0 auto !important;
+  font-size: 1.1rem !important;
+  line-height: 1.8 !important;
+  color: var(--global-text-color) !important;
+}
+
+.post-content p {
+  margin-bottom: 1.5rem !important;
+}
+
+.post-content h2 {
+  font-size: 1.65rem !important;
+  margin-top: 2.75rem !important;
+  margin-bottom: 1.1rem !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.02em !important;
+}
+
+.post-content h3 {
+  font-size: 1.35rem !important;
+  margin-top: 2.25rem !important;
+  margin-bottom: 0.85rem !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.01em !important;
+}
+
+/* Pristine Code Blocks */
+div.highlighter-rouge {
+  margin: 1.75rem 0 !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  border: 1px solid var(--global-divider-color) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.01) !important;
+}
+
+div.highlighter-rouge pre {
+  margin-bottom: 0 !important;
+  padding: 1.25rem !important;
+  background-color: var(--global-code-bg-color) !important;
+}
+
+html[data-theme="dark"] div.highlighter-rouge {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+
+
