@@ -11,12 +11,12 @@ export const portfolioData: Portfolio[] = [
   },
   {
     title: "Biomedical Knowledge Agent",
-    description: "An agentic RAG system over PubMed Central that routes between domain-specific vector search and external retrieval while preserving scientific-document structure.",
+    description: "A ReAct based agentic RAG system over PubMed Central and Wikipedia that routes between domain-specific vector search and external retrieval while preserving scientific-document structure.",
     technologies: ["LangGraph", "LangChain", "Weaviate", "PubMedBERT"],
   },
   {
     title: "AI Hedge Fund",
-    description: "A multi-agent trading simulator with specialized valuation, sentiment, and technical-analysis agents, a vectorized backtester, and quantitative risk controls. Awarded third place at Hack Arizona.",
+    description: "A multi-agent trading simulator with specialized valuation, sentiment, and technical-analysis agents, a vectorized backtester, and quantitative risk controls motivated by the trading strategies of billionaires like Ray Dalio, Warren Buffett, etc. Awarded third place at Hack Arizona 2025.",
     technologies: ["Python", "FastAPI", "LangGraph", "Amazon Bedrock"],
   },
 ];

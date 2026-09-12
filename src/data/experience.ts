@@ -6,7 +6,7 @@ export interface Experience {
 export const experienceData: Experience[] = [
   {
     date: "Aug 2025—Present",
-    title: "Ph.D. Graduate Student Researcher",
+    title: "PhD Graduate Student Researcher",
     company: "Intelligent Computing for Clinical Imaging Lab, University of Pittsburgh",
     description: "Researching multimodal representation learning and modeling temporal DCE-MRI, spatial mammography, and inter-modal interactions for breast cancer recurrence prediction.",
     advisor: "Dr. Shandong Wu",

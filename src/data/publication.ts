@@ -9,7 +9,7 @@ export const publicationData: Publication[] = [
     conference: "Intelligent Systems Conference (IntelliSys)",
     title: "Automated Feedback Loops to Protect Text Simplification with Generative AI from Information Loss",
     authors: "Abhay Kumara Sri Krishna Nandiraju, Gondy Leroy, David Kauchak, Arif Ahmed",
-    paperUrl: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uoechdIAAAAJ&citation_for_view=uoechdIAAAAJ:u5HHmVD_uO8C",
+    paperUrl: "https://arxiv.org/pdf/2505.16172",
     tldr: "An automated feedback-loop framework that identifies and restores missing biomedical information in generative-AI text simplification.",
   },
 ];
